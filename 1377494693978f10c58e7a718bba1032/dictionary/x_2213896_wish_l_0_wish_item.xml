@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="962ac9ca93978f10c58e7a718bba104e" label="Wish Item" max_length="40" name="x_2213896_wish_l_0_wish_item" type="collection">
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Test" mandatory="true" max_length="40" name="test" type="string"/>
     </element>
 </database>

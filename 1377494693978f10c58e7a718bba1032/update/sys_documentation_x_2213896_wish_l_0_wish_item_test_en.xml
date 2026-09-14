@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="test" label="Test" language="en" table="x_2213896_wish_l_0_wish_item">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>test</element>
+            <help/>
+            <hint/>
+            <label>Test</label>
+            <language>en</language>
+            <name>x_2213896_wish_l_0_wish_item</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-09-14 13:22:47</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Test</sys_name>
+            <sys_package display_value="Wish List" source="x_2213896_wish_l_0">1377494693978f10c58e7a718bba1032</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wish List">1377494693978f10c58e7a718bba1032</sys_scope>
+            <sys_update_name>sys_documentation_x_2213896_wish_l_0_wish_item_test_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-09-14 13:22:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
